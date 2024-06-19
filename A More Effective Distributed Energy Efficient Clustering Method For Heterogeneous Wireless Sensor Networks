@@ -1,5 +1,4 @@
-Title: A More Effective Distributed Energy Efficient Clustering Method For Heterogeneous WSNs
-Program:
+Title: A More Effective Distributed Energy Efficient Clustering Method For Heterogeneous Wireless Sensor Networks
 # Define options
 set val(chan) Channel/WirelessChannel ;# channel type
 set val(prop) Propagation/TwoRayGround ;# radio-propagation model
